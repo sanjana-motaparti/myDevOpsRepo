@@ -1,5 +1,3 @@
-import java.beans.Transient;
-
 import org.junit.*;
 
 public class calculatorTest {
